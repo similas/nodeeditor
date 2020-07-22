@@ -1,0 +1,221 @@
+{
+	"BUILD_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/nodes_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.17.3/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionBlurEffect.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_ConnectionBlurEffect.cpp"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionPainter.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_ConnectionPainter.cpp"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeConnectionInteraction.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_NodeConnectionInteraction.cpp"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodePainter.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_NodePainter.cpp"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/Properties.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_Properties.cpp"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/StyleCollection.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_StyleCollection.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/nodes_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/nodes_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NODE_EDITOR_EXPORTS",
+		"NODE_EDITOR_SHARED",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_NO_KEYWORDS",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"nodes_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtCore.framework",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtCore.framework/Headers",
+		"/usr/local/Cellar/qt/5.15.0/mkspecs/macx-clang",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtWidgets.framework",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtWidgets.framework/Headers",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtGui.framework",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtOpenGL.framework",
+		"/usr/local/Cellar/qt/5.15.0/lib/QtOpenGL.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/clang++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.17.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/nodes_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Compiler.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Connection.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/ConnectionGeometry.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/ConnectionGraphicsObject.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/ConnectionState.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/ConnectionStyle.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/DataModelRegistry.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Export.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/FlowScene.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/FlowView.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/FlowViewStyle.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Node.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeData.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeDataModel.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeGeometry.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeGraphicsObject.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodePainterDelegate.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeState.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/NodeStyle.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/OperatingSystem.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/PortType.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/QStringStdHash.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/QUuidStdHash.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Serializable.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/Style.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/TypeConverter.hpp",
+		"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/include/nodes/internal/memory.hpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/CMakeFiles/nodes_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/Cellar/qt/5.15.0/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/CMakeFiles/nodes_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/Connection.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionBlurEffect.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionGeometry.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionGraphicsObject.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionPainter.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionState.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/ConnectionStyle.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/DataModelRegistry.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/FlowScene.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/FlowView.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/FlowViewStyle.cpp",
+			"Mu"
+		],
+		[ "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/Node.cpp", "Mu" ],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeConnectionInteraction.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeDataModel.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeGeometry.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeGraphicsObject.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodePainter.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeState.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/NodeStyle.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/Properties.cpp",
+			"Mu"
+		],
+		[
+			"/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/src/StyleCollection.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}

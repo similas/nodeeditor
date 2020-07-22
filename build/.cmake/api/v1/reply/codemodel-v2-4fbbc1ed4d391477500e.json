@@ -1,0 +1,330 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						9
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "external",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/connection_colors",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/connection_colors",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "examples/example2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/example2",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "examples/calculator",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/calculator",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "examples/images",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/images",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "examples/styles",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/styles",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "examples/calcal",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/calcal",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Build",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "NodeEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 8,
+					"id" : "calcal::@eb7e261ff214da0458ad",
+					"jsonFile" : "target-calcal-Build-5d500abb07d5ef2bbf09.json",
+					"name" : "calcal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "calcal_autogen::@eb7e261ff214da0458ad",
+					"jsonFile" : "target-calcal_autogen-Build-6fed5459820267ecb040.json",
+					"name" : "calcal_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "calculator::@04d4dbce3f6a518ed977",
+					"jsonFile" : "target-calculator-Build-04635ff963824b0fc3b1.json",
+					"name" : "calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "calculator_autogen::@04d4dbce3f6a518ed977",
+					"jsonFile" : "target-calculator_autogen-Build-902e31684542a0e8716f.json",
+					"name" : "calculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "connection_colors::@504736170761ef695b25",
+					"jsonFile" : "target-connection_colors-Build-3693fcc0f339b408c471.json",
+					"name" : "connection_colors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "connection_colors_autogen::@504736170761ef695b25",
+					"jsonFile" : "target-connection_colors_autogen-Build-b407cb6c0492d6133d33.json",
+					"name" : "connection_colors_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "example2::@9e527b5ad552595f2e57",
+					"jsonFile" : "target-example2-Build-50bd4613b711436e2ce8.json",
+					"name" : "example2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "example2_autogen::@9e527b5ad552595f2e57",
+					"jsonFile" : "target-example2_autogen-Build-1aebb1bda64c65e4b1c9.json",
+					"name" : "example2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "images::@062e391225274de7d6f0",
+					"jsonFile" : "target-images-Build-6f0680d1c30200556a9d.json",
+					"name" : "images",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "images_autogen::@062e391225274de7d6f0",
+					"jsonFile" : "target-images_autogen-Build-ded2e98c39da7ca05d3d.json",
+					"name" : "images_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nodes-Build-a604ecd7803e5d072944.json",
+					"name" : "nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nodes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nodes_autogen-Build-d59ecc0af26540ec1f01.json",
+					"name" : "nodes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "styles::@40d7219345c1f697648b",
+					"jsonFile" : "target-styles-Build-4b851057844d7ef569c4.json",
+					"name" : "styles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "styles_autogen::@40d7219345c1f697648b",
+					"jsonFile" : "target-styles_autogen-Build-41ba9799a425bdba3eb8.json",
+					"name" : "styles_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "test_nodes::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_nodes-Build-801885a88dc4b8eac72c.json",
+					"name" : "test_nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "test_nodes_autogen::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_nodes_autogen-Build-1588f0c6c1932cfb638b.json",
+					"name" : "test_nodes_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build",
+		"source" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

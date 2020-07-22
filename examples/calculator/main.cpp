@@ -111,7 +111,7 @@ main(int argc, char *argv[])
   QObject::connect(loadAction, &QAction::triggered,
                    scene, &FlowScene::load);
 
-  mainWidget.setWindowTitle("Dataflow tools: simplest calculator");
+  mainWidget.setWindowTitle("Dataflow tools: My Simplest Calculator !");
   mainWidget.resize(800, 600);
   mainWidget.showNormal();
 
