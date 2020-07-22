@@ -197,12 +197,12 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "test_nodes_autogen::@36f028580bb02cc8272a"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "nodes::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "test_nodes_autogen::@36f028580bb02cc8272a"
 		}
 	],
 	"id" : "test_nodes::@36f028580bb02cc8272a",

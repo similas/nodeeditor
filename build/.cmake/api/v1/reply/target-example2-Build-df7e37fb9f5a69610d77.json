@@ -153,12 +153,12 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "example2_autogen::@9e527b5ad552595f2e57"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "nodes::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "example2_autogen::@9e527b5ad552595f2e57"
 		}
 	],
 	"id" : "example2::@9e527b5ad552595f2e57",

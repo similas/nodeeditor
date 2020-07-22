@@ -152,12 +152,12 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "connection_colors_autogen::@504736170761ef695b25"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "nodes::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "connection_colors_autogen::@504736170761ef695b25"
 		}
 	],
 	"id" : "connection_colors::@504736170761ef695b25",

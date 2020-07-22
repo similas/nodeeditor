@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bin/images"
+			"path" : "bin/calculator"
 		}
 	],
 	"backtrace" : 1,
@@ -15,7 +15,7 @@
 		],
 		"files" : 
 		[
-			"examples/images/CMakeLists.txt"
+			"examples/calculator/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -83,7 +83,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/examples/images/images_autogen/include"
+					"path" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/examples/calculator/calculator_autogen/include"
 				},
 				{
 					"backtrace" : 2,
@@ -146,22 +146,25 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "images_autogen::@062e391225274de7d6f0"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "nodes::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "calculator_autogen::@04d4dbce3f6a518ed977"
 		}
 	],
-	"id" : "images::@062e391225274de7d6f0",
+	"id" : "calculator::@04d4dbce3f6a518ed977",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -198,12 +201,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "images",
-	"nameOnDisk" : "images",
+	"name" : "calculator",
+	"nameOnDisk" : "calculator",
 	"paths" : 
 	{
-		"build" : "examples/images",
-		"source" : "examples/images"
+		"build" : "examples/calculator",
+		"source" : "examples/calculator"
 	},
 	"sourceGroups" : 
 	[
@@ -214,7 +217,10 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		}
 	],
@@ -224,25 +230,43 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/examples/images/images_autogen/mocs_compilation.cpp",
+			"path" : "build/examples/calculator/calculator_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "examples/images/ImageLoaderModel.cpp",
+			"path" : "examples/calculator/Converters.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "examples/images/ImageShowModel.cpp",
+			"path" : "examples/calculator/MathOperationDataModel.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "examples/images/main.cpp",
+			"path" : "examples/calculator/ModuloModel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "examples/calculator/NumberDisplayDataModel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "examples/calculator/NumberSourceDataModel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "examples/calculator/main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

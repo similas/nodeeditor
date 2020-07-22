@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bin/calcal"
+			"path" : "bin/styles"
 		}
 	],
 	"backtrace" : 1,
@@ -15,7 +15,7 @@
 		],
 		"files" : 
 		[
-			"examples/calcal/CMakeLists.txt"
+			"examples/styles/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -83,7 +83,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/examples/calcal/calcal_autogen/include"
+					"path" : "/Users/alisalimisadr/Desktop/dev/cpp/nodeeditor/build/examples/styles/styles_autogen/include"
 				},
 				{
 					"backtrace" : 2,
@@ -145,26 +145,22 @@
 			[
 				0,
 				1,
-				2,
-				3,
-				4,
-				5,
-				6
+				2
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "calcal_autogen::@eb7e261ff214da0458ad"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "nodes::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "styles_autogen::@40d7219345c1f697648b"
 		}
 	],
-	"id" : "calcal::@eb7e261ff214da0458ad",
+	"id" : "styles::@40d7219345c1f697648b",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -201,12 +197,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "calcal",
-	"nameOnDisk" : "calcal",
+	"name" : "styles",
+	"nameOnDisk" : "styles",
 	"paths" : 
 	{
-		"build" : "examples/calcal",
-		"source" : "examples/calcal"
+		"build" : "examples/styles",
+		"source" : "examples/styles"
 	},
 	"sourceGroups" : 
 	[
@@ -216,11 +212,7 @@
 			[
 				0,
 				1,
-				2,
-				3,
-				4,
-				5,
-				6
+				2
 			]
 		}
 	],
@@ -230,43 +222,19 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/examples/calcal/calcal_autogen/mocs_compilation.cpp",
+			"path" : "build/examples/styles/styles_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/Converters.cpp",
+			"path" : "examples/styles/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/MathOperationDataModel.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/ModuloModel.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/NumberDisplayDataModel.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/NumberSourceDataModel.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "examples/calcal/main.cpp",
+			"path" : "examples/styles/models.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

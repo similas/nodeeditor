@@ -18,6 +18,7 @@
 #include "DivisionModel.hpp"
 #include "ModuloModel.hpp"
 #include "Converters.hpp"
+#include "TimesModel.hpp"
 
 
 using QtNodes::DataModelRegistry;
@@ -40,6 +41,8 @@ registerDataModels()
   ret->registerModel<SubtractionModel>("Operators");
 
   ret->registerModel<MultiplicationModel>("Operators");
+
+  ret->registerModel<TimesModel>("Operators");
 
   ret->registerModel<DivisionModel>("Operators");
 
